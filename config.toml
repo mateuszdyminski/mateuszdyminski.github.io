@@ -1,0 +1,42 @@
+baseurl = "http://mateuszdyminski.github.io/"
+languageCode = "en-us"
+title = "Mateusz Dyminski"
+theme = "greyshade"
+
+[author]
+name = "Mateusz Dymiński"
+# email will use for gravatar
+email = "dyminski@gmail.com"
+
+[taxonomies]
+category = "categories"
+
+[params]
+# RSS / Email (optional) subscription links (change if using something like Feedburner)
+subscribe_rss = "/index.xml"
+
+# site description, will show under navigation
+description = ""
+
+# social links
+facebook_user = ""
+googleplus_user = ""
+twitter_user = "m_dyminski"
+github_user = "mateuszdyminski"
+coderwall_user = ""
+stackoverflow_user = "wonsky"
+stackoverflow_user_id = "529998"
+linkedin_user = "mdyminski"
+pinterest_user = ""
+delicious_user = ""
+pinboard_user = ""
+quora_user = ""
+instagram_user = ""
+behance_user = ""
+douban_user = ""
+
+# share links
+facebook_like = true
+twitter_tweet_button = true
+google_plus_one = "true"
+addthis_profile_id = ""
