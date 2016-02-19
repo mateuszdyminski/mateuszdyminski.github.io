@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Introduction on Mateusz Dyminski </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://mateuszdyminski.github.io/categories/introduction/</link>
+    <language>en-us</language>
+    <author>Mateusz Dymiński</author>
+    
+    <updated>Fri, 19 Feb 2016 11:50:37 CET</updated>
+    
+    <item>
+      <title>Mateusz Dyminski - Welcome</title>
+      <link>http://mateuszdyminski.github.io/post/hello/</link>
+      <pubDate>Fri, 19 Feb 2016 11:50:37 CET</pubDate>
+      <author>Mateusz Dymiński</author>
+      <guid>http://mateuszdyminski.github.io/post/hello/</guid>
+      <description>
+
+&lt;h2 id=&#34;about:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;About&lt;/h2&gt;
+
+&lt;p&gt;Welcome on my blog!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
