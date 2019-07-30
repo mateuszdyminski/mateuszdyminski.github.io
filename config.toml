@@ -1,42 +1,65 @@
-baseurl = "http://mateuszdyminski.github.io/"
+title = "Mateusz Dymiński"
+baseURL = "https://mateuszdyminski.com"
 languageCode = "en-us"
-title = "Mateusz Dyminski"
-theme = "greyshade"
+theme = "gohugo-theme-ananke"
+themesDir = "themes"
 
-[author]
-name = "Mateusz Dymiński"
-# email will use for gravatar
-email = "dyminski@gmail.com"
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 
+googleAnalytics = "UA-143895116-1"
+enableRobotsTXT = true
 
-[taxonomies]
-category = "categories"
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
-# RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss = "/index.xml"
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = "https://www.facebook.com/mateusz.dyminski.3"
+  twitter = "https://twitter.com/m_dyminski"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/mateuszdyminski"
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/mdyminski"
+  mastodon = ""
+  background_color_class = "bg-black"
+  recent_posts_number = 6
+  disqusShortname = "mateuszdyminski"
+  custom_css = ["css/custom.css"]
 
-# site description, will show under navigation
-description = ""
+[menu]
 
-# social links
-facebook_user = ""
-googleplus_user = ""
-twitter_user = "m_dyminski"
-github_user = "mateuszdyminski"
-coderwall_user = ""
-stackoverflow_user = "wonsky"
-stackoverflow_user_id = "529998"
-linkedin_user = "mdyminski"
-pinterest_user = ""
-delicious_user = ""
-pinboard_user = ""
-quora_user = ""
-instagram_user = ""
-behance_user = ""
-douban_user = ""
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    url = "/about/"
+    weight = -160
 
-# share links
-facebook_like = true
-twitter_tweet_button = true
-google_plus_one = "true"
-addthis_profile_id = ""
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = -150
+  
+  [[menu.main]]
+    identifier = "talks"
+    name = "Talks"
+    url = "/talks/"
+    weight = -140
+
+  [[menu.main]]
+    identifier = "trainings"
+    name = "Trainings"
+    url = "/trainings/"
+    weight = -130
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = -120
