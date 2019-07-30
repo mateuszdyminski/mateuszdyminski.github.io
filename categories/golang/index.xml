@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Golang on Mateusz Dyminski </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://mateuszdyminski.github.io/categories/golang/</link>
+    <title>Golang on Mateusz Dymiński</title>
+    <link>https://mateuszdyminski.com/categories/golang/</link>
+    <description>Recent content in Golang on Mateusz Dymiński</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Mateusz Dymiński</author>
+    <lastBuildDate>Tue, 30 Jul 2019 11:50:37 +0100</lastBuildDate>
     
-    <updated>Fri, 19 Feb 2016 11:50:37 CET</updated>
+	<atom:link href="https://mateuszdyminski.com/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Mateusz Dyminski - Welcome</title>
-      <link>http://mateuszdyminski.github.io/post/hello/</link>
-      <pubDate>Fri, 19 Feb 2016 11:50:37 CET</pubDate>
-      <author>Mateusz Dymiński</author>
-      <guid>http://mateuszdyminski.github.io/post/hello/</guid>
-      <description>
-
-&lt;h2 id=&#34;about:8a07c3dae13f18d0c06cf5f9e482b173&#34;&gt;About&lt;/h2&gt;
-
-&lt;p&gt;Welcome on my blog!&lt;/p&gt;
-</description>
+      <title>Golang Training - basic</title>
+      <link>https://mateuszdyminski.com/trainings/golang/basic/</link>
+      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/trainings/golang/basic/</guid>
+      <description>Golang training on basic level, no experience expected!</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://mateuszdyminski.com/blog/welcome/hello/</link>
+      <pubDate>Fri, 19 Feb 2016 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/blog/welcome/hello/</guid>
+      <description>Hello everyone!</description>
     </item>
     
   </channel>

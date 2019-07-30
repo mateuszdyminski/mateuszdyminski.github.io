@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Mateusz Dymiński</title>
-    <link>https://mateuszdyminski.com/</link>
-    <description>Recent content in Welcome on Mateusz Dymiński</description>
+    <title>Consulting on Mateusz Dymiński</title>
+    <link>https://mateuszdyminski.com/categories/consulting/</link>
+    <description>Recent content in Consulting on Mateusz Dymiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jul 2019 11:50:37 +0100</lastBuildDate>
     
-	<atom:link href="https://mateuszdyminski.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mateuszdyminski.com/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -45,15 +45,6 @@
       
       <guid>https://mateuszdyminski.com/trainings/k8s/k8s/</guid>
       <description>Kubernetes training on basic level, no experience expected!</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://mateuszdyminski.com/blog/welcome/hello/</link>
-      <pubDate>Fri, 19 Feb 2016 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/blog/welcome/hello/</guid>
-      <description>Hello everyone!</description>
     </item>
     
   </channel>
