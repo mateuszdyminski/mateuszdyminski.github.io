@@ -7,13 +7,4 @@ summary = "Golang training on basic level, no experience expected!"
 
 +++
 
-## Agenda
-
-- [Lecture] - Lecture session
-- [Demo] - Demo session
-- [Exercise] - Exercise session
-
-Sessions:
-
-- [Lecture] Intro - 5 mins
-- [Lecture] Etc
+TBD

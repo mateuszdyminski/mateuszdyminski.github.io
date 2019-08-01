@@ -2,8 +2,8 @@
 categories = ["Apache Kafka", "Training", "Workshop", "Consulting", "Kubernetes"]
 date = "2019-07-30T11:50:37+01:00"
 draft = false
-title = "Apache Kafka on Kubernetes 2-days workshop"
-summary = "Apache Kafka on Kubernetes 2-days workshop"
+title = "Apache Kafka on Kubernetes workshop"
+summary = "Apache Kafka on Kubernetes workshop"
 
 +++
 

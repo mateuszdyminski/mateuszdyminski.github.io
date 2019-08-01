@@ -17,7 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "images/favicon.png"
   description = "The last theme you'll ever need. Maybe."
   facebook = "https://www.facebook.com/mateusz.dyminski.3"
   twitter = "https://twitter.com/m_dyminski"
@@ -53,9 +53,9 @@ enableRobotsTXT = true
     weight = -140
 
   [[menu.main]]
-    identifier = "trainings"
+    identifier = "training"
     name = "Trainings"
-    url = "/trainings/"
+    url = "/training/"
     weight = -130
 
   [[menu.main]]

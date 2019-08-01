@@ -5,3 +5,11 @@
 .bg-black-60{
     background-color:rgba(0,0,0,.4)
 }
+
+.pb7 {
+    padding-bottom: 4rem;
+}
+
+.mt5{
+    margin-top: 2rem;
+}
