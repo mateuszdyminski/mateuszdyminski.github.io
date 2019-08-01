@@ -6,17 +6,44 @@
     <description>Recent content in Blog on Mateusz Dymiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2016 11:50:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 07:51:37 +0100</lastBuildDate>
     
 	<atom:link href="https://mateuszdyminski.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Kubernetes pods side-car patterns - part 3</title>
+      <link>https://mateuszdyminski.com/blog/2019/004_another/</link>
+      <pubDate>Thu, 01 Aug 2019 07:51:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/blog/2019/004_another/</guid>
+      <description>Another blog post!</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes pods side-car patterns - part 1</title>
+      <link>https://mateuszdyminski.com/blog/2019/002_another/</link>
+      <pubDate>Wed, 31 Jul 2019 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/blog/2019/002_another/</guid>
+      <description>Another blog post!</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes pods side-car patterns - part 2</title>
+      <link>https://mateuszdyminski.com/blog/2019/003_another/</link>
+      <pubDate>Mon, 01 Jul 2019 07:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/blog/2019/003_another/</guid>
+      <description>Another blog post!</description>
+    </item>
+    
+    <item>
       <title>Welcome</title>
-      <link>https://mateuszdyminski.com/blog/welcome/hello/</link>
+      <link>https://mateuszdyminski.com/blog/2019/001_hello/</link>
       <pubDate>Fri, 19 Feb 2016 11:50:37 +0100</pubDate>
       
-      <guid>https://mateuszdyminski.com/blog/welcome/hello/</guid>
+      <guid>https://mateuszdyminski.com/blog/2019/001_hello/</guid>
       <description>Hello everyone!</description>
     </item>
     

@@ -12,21 +12,12 @@
     
     
     <item>
-      <title>Apache Kafka on Kubernetes 2-days workshop</title>
-      <link>https://mateuszdyminski.com/trainings/kafka/kafka_on_kubernetes/</link>
+      <title>Apache Kafka on Kubernetes workshop</title>
+      <link>https://mateuszdyminski.com/training/kafka/kafka_on_kubernetes/</link>
       <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
       
-      <guid>https://mateuszdyminski.com/trainings/kafka/kafka_on_kubernetes/</guid>
-      <description>Apache Kafka on Kubernetes 2-days workshop</description>
-    </item>
-    
-    <item>
-      <title>Apache Kafka workshop</title>
-      <link>https://mateuszdyminski.com/trainings/kafka/kafka/</link>
-      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/trainings/kafka/kafka/</guid>
-      <description>Apache Kafka 1-day workshop for developers</description>
+      <guid>https://mateuszdyminski.com/training/kafka/kafka_on_kubernetes/</guid>
+      <description>Apache Kafka on Kubernetes workshop</description>
     </item>
     
   </channel>

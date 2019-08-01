@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Mateusz Dymiński</title>
-    <link>https://mateuszdyminski.com/categories/golang/</link>
-    <description>Recent content in Golang on Mateusz Dymiński</description>
+    <title>Pod on Mateusz Dymiński</title>
+    <link>https://mateuszdyminski.com/categories/pod/</link>
+    <description>Recent content in Pod on Mateusz Dymiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2019 07:51:37 +0100</lastBuildDate>
     
-	<atom:link href="https://mateuszdyminski.com/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mateuszdyminski.com/categories/pod/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,30 +30,12 @@
     </item>
     
     <item>
-      <title>Golang Training - basic</title>
-      <link>https://mateuszdyminski.com/training/golang/basic/</link>
-      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/training/golang/basic/</guid>
-      <description>Golang training on basic level, no experience expected!</description>
-    </item>
-    
-    <item>
       <title>Kubernetes pods side-car patterns - part 2</title>
       <link>https://mateuszdyminski.com/blog/2019/003_another/</link>
       <pubDate>Mon, 01 Jul 2019 07:50:37 +0100</pubDate>
       
       <guid>https://mateuszdyminski.com/blog/2019/003_another/</guid>
       <description>Another blog post!</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://mateuszdyminski.com/blog/2019/001_hello/</link>
-      <pubDate>Fri, 19 Feb 2016 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/blog/2019/001_hello/</guid>
-      <description>Hello everyone!</description>
     </item>
     
   </channel>

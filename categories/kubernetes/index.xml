@@ -6,27 +6,54 @@
     <description>Recent content in Kubernetes on Mateusz Dymiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2019 11:50:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 07:51:37 +0100</lastBuildDate>
     
 	<atom:link href="https://mateuszdyminski.com/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Apache Kafka on Kubernetes 2-days workshop</title>
-      <link>https://mateuszdyminski.com/trainings/kafka/kafka_on_kubernetes/</link>
+      <title>Kubernetes pods side-car patterns - part 3</title>
+      <link>https://mateuszdyminski.com/blog/2019/004_another/</link>
+      <pubDate>Thu, 01 Aug 2019 07:51:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/blog/2019/004_another/</guid>
+      <description>Another blog post!</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes pods side-car patterns - part 1</title>
+      <link>https://mateuszdyminski.com/blog/2019/002_another/</link>
+      <pubDate>Wed, 31 Jul 2019 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/blog/2019/002_another/</guid>
+      <description>Another blog post!</description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka on Kubernetes workshop</title>
+      <link>https://mateuszdyminski.com/training/kafka/kafka_on_kubernetes/</link>
       <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
       
-      <guid>https://mateuszdyminski.com/trainings/kafka/kafka_on_kubernetes/</guid>
-      <description>Apache Kafka on Kubernetes 2-days workshop</description>
+      <guid>https://mateuszdyminski.com/training/kafka/kafka_on_kubernetes/</guid>
+      <description>Apache Kafka on Kubernetes workshop</description>
     </item>
     
     <item>
       <title>Kubernetes Training - basic</title>
-      <link>https://mateuszdyminski.com/trainings/k8s/k8s/</link>
+      <link>https://mateuszdyminski.com/training/k8s/k8s/</link>
       <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
       
-      <guid>https://mateuszdyminski.com/trainings/k8s/k8s/</guid>
+      <guid>https://mateuszdyminski.com/training/k8s/k8s/</guid>
       <description>Kubernetes training on basic level, no experience expected!</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes pods side-car patterns - part 2</title>
+      <link>https://mateuszdyminski.com/blog/2019/003_another/</link>
+      <pubDate>Mon, 01 Jul 2019 07:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/blog/2019/003_another/</guid>
+      <description>Another blog post!</description>
     </item>
     
   </channel>

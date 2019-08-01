@@ -3,29 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mateuszdyminski.com/categories/apache-kafka/</loc>
-    <lastmod>2019-07-30T11:50:37+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mateuszdyminski.com/trainings/kafka/kafka_on_kubernetes/</loc>
-    <lastmod>2019-07-30T11:50:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mateuszdyminski.com/trainings/kafka/kafka/</loc>
-    <lastmod>2019-07-30T11:50:37+01:00</lastmod>
+    <loc>https://mateuszdyminski.com/blog/</loc>
+    <lastmod>2019-08-01T07:51:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://mateuszdyminski.com/categories/</loc>
+    <lastmod>2019-08-01T07:51:37+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/categories/golang/</loc>
+    <lastmod>2019-08-01T07:51:37+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/categories/kubernetes/</loc>
+    <lastmod>2019-08-01T07:51:37+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/blog/2019/004_another/</loc>
+    <lastmod>2019-08-01T07:51:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/categories/pod/</loc>
+    <lastmod>2019-08-01T07:51:37+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/categories/sidecar/</loc>
+    <lastmod>2019-08-01T07:51:37+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/</loc>
+    <lastmod>2019-08-01T07:51:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/blog/2019/002_another/</loc>
+    <lastmod>2019-07-31T11:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/categories/apache-kafka/</loc>
     <lastmod>2019-07-30T11:50:37+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/training/kafka/kafka_on_kubernetes/</loc>
+    <lastmod>2019-07-30T11:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -35,26 +80,14 @@
   </url>
   
   <url>
-    <loc>https://mateuszdyminski.com/categories/golang/</loc>
-    <lastmod>2019-07-30T11:50:37+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mateuszdyminski.com/trainings/golang/basic/</loc>
+    <loc>https://mateuszdyminski.com/training/golang/basic/</loc>
     <lastmod>2019-07-30T11:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mateuszdyminski.com/categories/kubernetes/</loc>
-    <lastmod>2019-07-30T11:50:37+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mateuszdyminski.com/trainings/k8s/k8s/</loc>
+    <loc>https://mateuszdyminski.com/training/k8s/k8s/</loc>
     <lastmod>2019-07-30T11:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -67,14 +100,7 @@
   </url>
   
   <url>
-    <loc>https://mateuszdyminski.com/trainings/</loc>
-    <lastmod>2019-07-30T11:50:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mateuszdyminski.com/</loc>
+    <loc>https://mateuszdyminski.com/training/</loc>
     <lastmod>2019-07-30T11:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -87,8 +113,8 @@
   </url>
   
   <url>
-    <loc>https://mateuszdyminski.com/blog/</loc>
-    <lastmod>2016-02-19T11:50:37+01:00</lastmod>
+    <loc>https://mateuszdyminski.com/blog/2019/003_another/</loc>
+    <lastmod>2019-07-01T07:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -100,7 +126,7 @@
   </url>
   
   <url>
-    <loc>https://mateuszdyminski.com/blog/welcome/hello/</loc>
+    <loc>https://mateuszdyminski.com/blog/2019/001_hello/</loc>
     <lastmod>2016-02-19T11:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
