@@ -7,7 +7,7 @@ featured_image: "images/audience.jpg"
 ## Conferences - upcomming
 
 * [2019] [Cloud Native Warsaw](http://cloudnativewarsaw.com/) - **Understanding Kubernetes Storage** - slides video, repo
-* [2018] [code::dive](https://codedive.pl/) - **Diagnose your Golang App anytime anywhere!** - [slides](https://github.com/mateuszdyminski/go-diagnose/raw/master/presentation/Diagnose-Go-App-Mateusz-Dyminski.pptx), video, [repo](https://github.com/mateuszdyminski/go-diagnose)
+* [2019] [code::dive](https://codedive.pl/) - **Diagnose your Golang App anytime anywhere!** - [slides](https://github.com/mateuszdyminski/go-diagnose/raw/master/presentation/Diagnose-Go-App-Mateusz-Dyminski.pptx), video, [repo](https://github.com/mateuszdyminski/go-diagnose)
 
 ## Conferences - past
 
