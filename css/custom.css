@@ -17,14 +17,3 @@
 .pa3.pa4-ns.w-100.w-70-ns.center {
     display: none;
 }
-
-body {
-    min-height: 100vh;
-}
-
-footer {
-  position: -webkit-sticky;
-  position: sticky;
-  bottom: 1rem;
-  align-self: flex-end;
-}
