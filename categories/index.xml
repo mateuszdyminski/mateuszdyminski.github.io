@@ -6,46 +6,10 @@
     <description>Recent content in Categories on Mateusz Dymiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 07:51:37 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 11:50:37 +0100</lastBuildDate>
     
 	<atom:link href="https://mateuszdyminski.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Golang</title>
-      <link>https://mateuszdyminski.com/categories/golang/</link>
-      <pubDate>Thu, 01 Aug 2019 07:51:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kubernetes</title>
-      <link>https://mateuszdyminski.com/categories/kubernetes/</link>
-      <pubDate>Thu, 01 Aug 2019 07:51:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pod</title>
-      <link>https://mateuszdyminski.com/categories/pod/</link>
-      <pubDate>Thu, 01 Aug 2019 07:51:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/pod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sidecar</title>
-      <link>https://mateuszdyminski.com/categories/sidecar/</link>
-      <pubDate>Thu, 01 Aug 2019 07:51:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/sidecar/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Apache Kafka</title>
@@ -66,6 +30,24 @@
     </item>
     
     <item>
+      <title>Golang</title>
+      <link>https://mateuszdyminski.com/categories/golang/</link>
+      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://mateuszdyminski.com/categories/kubernetes/</link>
+      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Training</title>
       <link>https://mateuszdyminski.com/categories/training/</link>
       <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
@@ -80,15 +62,6 @@
       <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
       
       <guid>https://mateuszdyminski.com/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://mateuszdyminski.com/categories/introduction/</link>
-      <pubDate>Fri, 19 Feb 2016 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/introduction/</guid>
       <description></description>
     </item>
     
