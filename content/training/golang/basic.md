@@ -7,4 +7,33 @@ summary = "Golang training on basic level, no experience expected!"
 
 +++
 
-TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD
+- TBD

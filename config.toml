@@ -10,6 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 6
 googleAnalytics = "UA-143895116-1"
 enableRobotsTXT = true
+canonifyURLs = true
 
 [sitemap]
   changefreq = "monthly"
@@ -18,7 +19,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "images/favicon.png"
-  description = "The last theme you'll ever need. Maybe."
+  description = "Mateusz Dyminski personal webpage"
   facebook = "https://www.facebook.com/mateusz.dyminski.3"
   twitter = "https://twitter.com/m_dyminski"
   instagram = ""
@@ -40,12 +41,6 @@ enableRobotsTXT = true
     url = "/about/"
     weight = -160
 
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = -150
-  
   [[menu.main]]
     identifier = "talks"
     name = "Talks"

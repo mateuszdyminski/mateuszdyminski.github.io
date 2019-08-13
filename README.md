@@ -2,7 +2,7 @@
 
 ## TODO list
 
-* Check google analytics
-* Create content for each type of workshop
-* Create content for `talks` subpage
-* Check contact form
+[x] Check google analytics
+[] Create content for each type of workshop
+[x] Create content for `talks` subpage
+[x] Check contact form
