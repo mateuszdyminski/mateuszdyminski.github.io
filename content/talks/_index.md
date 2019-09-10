@@ -6,11 +6,12 @@ featured_image: "images/audience.jpg"
 
 ## Conferences - upcomming
 
-* [2019] [Cloud Native Warsaw](http://cloudnativewarsaw.com/) - **Understanding Kubernetes Storage** - slides video, repo
+* [2019] [JDD](https://jdd.org.pl/) - **Java in Container - Best Practices for containerised Java Apps** - slides, video, repo
 * [2019] [code::dive](https://codedive.pl/) - **Diagnose your Golang App anytime anywhere!** - [slides](https://github.com/mateuszdyminski/go-diagnose/raw/master/presentation/Diagnose-Go-App-Mateusz-Dyminski.pptx), video, [repo](https://github.com/mateuszdyminski/go-diagnose)
 
 ## Conferences - past
 
+* [2019] [Cloud Native Warsaw](http://cloudnativewarsaw.com/) - **Understanding Kubernetes Storage** - [slides](https://github.com/mateuszdyminski/storage/raw/master/presentation/KubernetesStorage.pptx), video, [repo](https://github.com/mateuszdyminski/storage)
 * [2019] [GoGoConf](https://2019.gogoconf.rocks/) - **Diagnose your Golang App anytime anywhere!** - [slides](https://github.com/mateuszdyminski/go-diagnose/raw/master/presentation/Diagnose-Go-App-Mateusz-Dyminski.pptx), video, [repo](https://github.com/mateuszdyminski/go-diagnose)
 * [2018] [code::dive](https://codedive.pl/) - **Clean code in Go** - [slides](https://github.com/mateuszdyminski/clean/raw/master/presentation/clean_code_in_go.pptx), [video](https://www.youtube.com/watch?v=kX-cYkto_Pk), [repo](https://github.com/mateuszdyminski/clean)
 * [2018] [4Developers](https://4developers.org.pl/) - **Zero-Downtime deployments with Kubernetes** - [slides](https://github.com/mateuszdyminski/zero/raw/master/presentation/zero-downtime.pptx), [video](https://www.youtube.com/watch?v=9b4wB1QA9eM), [repo](https://github.com/mateuszdyminski/zero)
