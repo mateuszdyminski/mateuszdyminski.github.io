@@ -4,7 +4,9 @@ description: "Some of talks which I gave"
 featured_image: "images/audience.jpg"
 ---
 
-<!-- ## Conferences - upcomming -->
+## Conferences - upcomming
+
+* [2020] [BoilingFrogs](https://2020.boilingfrogs.pl/) - **Apps in Containers - Best Practices for containerised Apps** - slides, video, repo
 
 ## Conference talks
 
