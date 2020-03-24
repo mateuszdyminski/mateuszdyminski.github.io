@@ -37,24 +37,24 @@ canonifyURLs = true
 
   [[menu.main]]
     identifier = "about"
-    name = "ABOUT ME"
+    name = "About me"
     url = "/about/"
     weight = -160
 
   [[menu.main]]
     identifier = "talks"
-    name = "TALKS"
+    name = "Talks"
     url = "/talks/"
     weight = -140
 
   [[menu.main]]
     identifier = "training"
-    name = "TRAININGS"
+    name = "Trainings"
     url = "/training/"
     weight = -130
 
   [[menu.main]]
     identifier = "contact"
-    name = "CONTACT"
+    name = "Contact"
     url = "/contact/"
     weight = -120
