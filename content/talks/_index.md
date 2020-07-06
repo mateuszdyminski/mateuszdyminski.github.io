@@ -6,6 +6,7 @@ featured_image: "images/audience.jpg"
 
 ## Conferences - upcomming
 
+* [2020] [4Developers](https://4developers.org.pl/festiwal-2020) - **Architecture Concepts Based on Change Data Capture(CDC)** - slides, video, repo
 * [2020] [4Developers](https://4developers.org.pl/festiwal-2020) - **Kubernetes Storage - Myths, Facts and Tips** - [slides](https://github.com/mateuszdyminski/storage/raw/master/presentation/KubernetesStorage.pptx), video, [repo](https://github.com/mateuszdyminski/storage)
 
 ## Conference talks
