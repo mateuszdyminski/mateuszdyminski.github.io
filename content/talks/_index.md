@@ -6,13 +6,12 @@ featured_image: "images/audience.jpg"
 
 ## Conferences - upcomming
 
-* [2020] [JDD](https://jdd.org.pl/) - **To k8s or not to k8s** - slides, video, repo
-
 ## Conference talks
 
+* [2020] [JDD](https://jdd.org.pl/) - **To k8s or not to k8s** - [slides](https://github.com/mateuszdyminski/k8s/raw/master/k8s.pptx), video, [repo](https://github.com/mateuszdyminski/k8s)
 * [2020] [4Developers](https://4developers.org.pl/festiwal-2020) - **Architecture Concepts Based on Change Data Capture(CDC)** - [slides](https://github.com/mateuszdyminski/cdc/blob/master/presentation/CDC.pptx), video, [repo](https://github.com/mateuszdyminski/cdc)
 * [2020] [4Developers](https://4developers.org.pl/festiwal-2020) - **Kubernetes Storage - Myths, Facts and Tips** - [slides](https://github.com/mateuszdyminski/storage/raw/master/presentation/KubernetesStorage.pptx), video, [repo](https://github.com/mateuszdyminski/storage)
-* [2020] [BoilingFrogs](https://2020.boilingfrogs.pl/) - **Apps in Containers - Best Practices for containerised Apps** - [slides](https://github.com/mateuszdyminski/app-in-container/blob/master/presentation/AppsInContainers2.pptx), video, [repo](https://github.com/mateuszdyminski/app-in-container)
+* [2020] [BoilingFrogs](https://2020.boilingfrogs.pl/) - **Apps in Containers - Best Practices for containerised Apps** - [slides](https://github.com/mateuszdyminski/app-in-container/blob/master/presentation/AppsInContainers2.pptx), [video](https://www.youtube.com/watch?v=yIrHulUHZi8), [repo](https://github.com/mateuszdyminski/app-in-container)
 * [2019] [code::dive](https://codedive.pl/) - **Diagnose your Golang App anytime anywhere!** - [slides](https://github.com/mateuszdyminski/go-diagnose/raw/master/presentation/Diagnose-Go-App-Mateusz-Dyminski.pptx), [video](https://www.youtube.com/watch?v=oyGT4synIWI), [repo](https://github.com/mateuszdyminski/go-diagnose)
 * [2019] [JDD](https://jdd.org.pl/) - **Java in Container - Best Practices for containerised Java Apps** - [slides](https://github.com/mateuszdyminski/java-in-container/raw/master/presentations/JavaInContainer.pptx), [video](https://www.youtube.com/watch?v=-ws2aqf9OG0), [repo](https://github.com/mateuszdyminski/java-in-container/)
 * [2019] [Cloud Native Warsaw](http://cloudnativewarsaw.com/) - **Understanding Kubernetes Storage** - [slides](https://github.com/mateuszdyminski/storage/raw/master/presentation/KubernetesStorage.pptx), [video](https://www.youtube.com/watch?v=y-dilY6rwJA), [repo](https://github.com/mateuszdyminski/storage)
