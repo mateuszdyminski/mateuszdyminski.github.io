@@ -7,30 +7,4 @@ summary = "Kubernetes training on basic level, no experience expected!"
 
 +++
 
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
+Please contact me to get more details.

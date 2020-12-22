@@ -7,8 +7,6 @@ summary = "Apache Kafka on Kubernetes workshop"
 
 +++
 
-TBD
-
 ## Agenda
 
 - [Lecture] - Lecture session
