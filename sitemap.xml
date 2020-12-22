@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://mateuszdyminski.com/categories/golang/</loc>
+    <loc>https://mateuszdyminski.com/categories/go/</loc>
     <lastmod>2019-07-30T11:50:37+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -38,6 +38,12 @@
     <lastmod>2019-07-30T11:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mateuszdyminski.com/categories/golang/</loc>
+    <lastmod>2019-07-30T11:50:37+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
