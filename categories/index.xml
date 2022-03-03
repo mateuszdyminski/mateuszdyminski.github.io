@@ -6,7 +6,61 @@
     <description>Recent content in Categories on Mateusz Dymiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Feb 2022 11:50:37 +0100</lastBuildDate><atom:link href="https://mateuszdyminski.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Mar 2022 09:50:37 +0100</lastBuildDate><atom:link href="https://mateuszdyminski.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture</title>
+      <link>https://mateuszdyminski.com/categories/architecture/</link>
+      <pubDate>Wed, 02 Mar 2022 09:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://mateuszdyminski.com/categories/consulting/</link>
+      <pubDate>Wed, 02 Mar 2022 09:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://mateuszdyminski.com/categories/microservices/</link>
+      <pubDate>Wed, 02 Mar 2022 09:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monolith</title>
+      <link>https://mateuszdyminski.com/categories/monolith/</link>
+      <pubDate>Wed, 02 Mar 2022 09:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/monolith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://mateuszdyminski.com/categories/training/</link>
+      <pubDate>Wed, 02 Mar 2022 09:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://mateuszdyminski.com/categories/workshop/</link>
+      <pubDate>Wed, 02 Mar 2022 09:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Apache Kafka</title>
       <link>https://mateuszdyminski.com/categories/apache-kafka/</link>
@@ -17,38 +71,11 @@
     </item>
     
     <item>
-      <title>Consulting</title>
-      <link>https://mateuszdyminski.com/categories/consulting/</link>
-      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/consulting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kubernetes</title>
       <link>https://mateuszdyminski.com/categories/kubernetes/</link>
       <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
       
       <guid>https://mateuszdyminski.com/categories/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training</title>
-      <link>https://mateuszdyminski.com/categories/training/</link>
-      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workshop</title>
-      <link>https://mateuszdyminski.com/categories/workshop/</link>
-      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/workshop/</guid>
       <description></description>
     </item>
     

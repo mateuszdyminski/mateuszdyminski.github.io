@@ -2,17 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mateuszdyminski.com/categories/apache-kafka/</loc>
-    <lastmod>2022-02-28T11:50:37+01:00</lastmod>
+    <loc>https://mateuszdyminski.com/categories/architecture/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mateuszdyminski.com/categories/</loc>
-    <lastmod>2022-02-28T11:50:37+01:00</lastmod>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mateuszdyminski.com/categories/consulting/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mateuszdyminski.com/categories/microservices/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mateuszdyminski.com/categories/monolith/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mateuszdyminski.com/training/architecture/architecture/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mateuszdyminski.com/categories/training/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mateuszdyminski.com/training/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mateuszdyminski.com/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mateuszdyminski.com/categories/workshop/</loc>
+    <lastmod>2022-03-02T09:50:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mateuszdyminski.com/categories/apache-kafka/</loc>
     <lastmod>2022-02-28T11:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -23,26 +63,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://mateuszdyminski.com/categories/kubernetes/</loc>
-    <lastmod>2022-02-28T11:50:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mateuszdyminski.com/categories/training/</loc>
-    <lastmod>2022-02-28T11:50:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mateuszdyminski.com/training/</loc>
-    <lastmod>2022-02-28T11:50:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mateuszdyminski.com/</loc>
-    <lastmod>2022-02-28T11:50:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mateuszdyminski.com/categories/workshop/</loc>
     <lastmod>2022-02-28T11:50:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

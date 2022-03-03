@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monolith on Mateusz Dymiński</title>
+    <link>https://mateuszdyminski.com/categories/monolith/</link>
+    <description>Recent content in Monolith on Mateusz Dymiński</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Mar 2022 09:50:37 +0100</lastBuildDate><atom:link href="https://mateuszdyminski.com/categories/monolith/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Architecture - Principles and Practices</title>
+      <link>https://mateuszdyminski.com/training/architecture/architecture/</link>
+      <pubDate>Wed, 02 Mar 2022 09:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/training/architecture/architecture/</guid>
+      <description>Software Architecture - Principles and Practices</description>
+    </item>
+    
+  </channel>
+</rss>
