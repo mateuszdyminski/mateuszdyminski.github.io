@@ -8,6 +8,7 @@ featured_image: "images/audience.jpg"
 
 ## Conference talks
 
+* [2021] [JDD](https://2021.jdd.org.pl/) - **Take your architecture to the next level with Change Data Capture(CDC)** - [slides](https://github.com/mateuszdyminski/cdc/blob/master/presentation/CDC.pptx), video, [repo](https://github.com/mateuszdyminski/cdc)
 * [2021] [BoilingFrogs](https://2021.boilingfrogs.pl/) - **Take your architecture to the next level with Change Data Capture(CDC)** - [slides](https://github.com/mateuszdyminski/cdc/blob/master/presentation/CDC.pptx), video, [repo](https://github.com/mateuszdyminski/cdc)
 * [2020] [JDD](https://jdd.org.pl/) - **To k8s or not to k8s** - [slides](https://github.com/mateuszdyminski/k8s/raw/master/k8s.pptx), video, [repo](https://github.com/mateuszdyminski/k8s)
 * [2020] [4Developers](https://4developers.org.pl/festiwal-2020) - **Architecture Concepts Based on Change Data Capture(CDC)** - [slides](https://github.com/mateuszdyminski/cdc/blob/master/presentation/CDC.pptx), [video](https://www.youtube.com/watch?v=G2tcyJ0ldy0), [repo](https://github.com/mateuszdyminski/cdc)
