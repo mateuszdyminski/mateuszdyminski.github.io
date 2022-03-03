@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Mateusz Dymiński</title>
@@ -6,10 +6,15 @@
     <description>Recent content in Welcome on Mateusz Dymiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2019 11:50:37 +0100</lastBuildDate>
-    
-	<atom:link href="https://mateuszdyminski.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 28 Feb 2022 11:50:37 +0100</lastBuildDate><atom:link href="https://mateuszdyminski.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Messaging with Apache Kafka</title>
+      <link>https://mateuszdyminski.com/training/kafka/distributed_msg_with_kafka/</link>
+      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/training/kafka/distributed_msg_with_kafka/</guid>
+      <description>Distributed Messaging with Apache Kafka</description>
+    </item>
     
     <item>
       <title>Apache Kafka on Kubernetes workshop</title>

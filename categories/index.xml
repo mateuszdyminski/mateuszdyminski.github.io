@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mateusz Dymiński</title>
@@ -6,15 +6,11 @@
     <description>Recent content in Categories on Mateusz Dymiński</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2019 11:50:37 +0100</lastBuildDate>
-    
-	<atom:link href="https://mateuszdyminski.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 28 Feb 2022 11:50:37 +0100</lastBuildDate><atom:link href="https://mateuszdyminski.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Kafka</title>
       <link>https://mateuszdyminski.com/categories/apache-kafka/</link>
-      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
+      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
       
       <guid>https://mateuszdyminski.com/categories/apache-kafka/</guid>
       <description></description>
@@ -23,9 +19,36 @@
     <item>
       <title>Consulting</title>
       <link>https://mateuszdyminski.com/categories/consulting/</link>
-      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
+      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
       
       <guid>https://mateuszdyminski.com/categories/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://mateuszdyminski.com/categories/kubernetes/</link>
+      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://mateuszdyminski.com/categories/training/</link>
+      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://mateuszdyminski.com/categories/workshop/</link>
+      <pubDate>Mon, 28 Feb 2022 11:50:37 +0100</pubDate>
+      
+      <guid>https://mateuszdyminski.com/categories/workshop/</guid>
       <description></description>
     </item>
     
@@ -44,33 +67,6 @@
       <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
       
       <guid>https://mateuszdyminski.com/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kubernetes</title>
-      <link>https://mateuszdyminski.com/categories/kubernetes/</link>
-      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training</title>
-      <link>https://mateuszdyminski.com/categories/training/</link>
-      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workshop</title>
-      <link>https://mateuszdyminski.com/categories/workshop/</link>
-      <pubDate>Tue, 30 Jul 2019 11:50:37 +0100</pubDate>
-      
-      <guid>https://mateuszdyminski.com/categories/workshop/</guid>
       <description></description>
     </item>
     

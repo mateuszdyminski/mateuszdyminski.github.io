@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Mateusz Dymiński  | Golang</title>
+    <title>Mateusz Dymiński  | Distributed Messaging with Apache Kafka</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -31,19 +31,21 @@
     
 
     
-      <link href="https://mateuszdyminski.com/categories/golang/index.xml" rel="alternate" type="application/rss+xml" title="Mateusz Dymiński" />
-      <link href="https://mateuszdyminski.com/categories/golang/index.xml" rel="feed" type="application/rss+xml" title="Mateusz Dymiński" />
-    
 
-    <meta property="og:title" content="Golang" />
-<meta property="og:description" content="Mateusz Dyminski personal webpage" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://mateuszdyminski.com/categories/golang/" />
+    <meta property="og:title" content="Distributed Messaging with Apache Kafka" />
+<meta property="og:description" content="Distributed Messaging with Apache Kafka" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://mateuszdyminski.com/training/kafka/distributed_msg_with_kafka/" /><meta property="article:section" content="training" />
+<meta property="article:published_time" content="2022-02-28T11:50:37+01:00" />
+<meta property="article:modified_time" content="2022-02-28T11:50:37+01:00" />
 
-<meta itemprop="name" content="Golang">
-<meta itemprop="description" content="Mateusz Dyminski personal webpage"><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Golang"/>
-<meta name="twitter:description" content="Mateusz Dyminski personal webpage"/>
+<meta itemprop="name" content="Distributed Messaging with Apache Kafka">
+<meta itemprop="description" content="Distributed Messaging with Apache Kafka"><meta itemprop="datePublished" content="2022-02-28T11:50:37+01:00" />
+<meta itemprop="dateModified" content="2022-02-28T11:50:37+01:00" />
+<meta itemprop="wordCount" content="184">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Distributed Messaging with Apache Kafka"/>
+<meta name="twitter:description" content="Distributed Messaging with Apache Kafka"/>
 
       
 <script type="application/javascript">
@@ -63,9 +65,11 @@ if (!doNotTrack) {
   <body class="ma0 avenir bg-near-white production">
 
     
+   
+  
 
   <header>
-    <div class="pb3-m pb6-l bg-black">
+    <div class="bg-black">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="https://mateuszdyminski.com" class="f3 fw2 hover-white no-underline white-90 dib">
@@ -155,45 +159,115 @@ if (!doNotTrack) {
   </div>
 </nav>
 
-      <div class="tc-l pv3 ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
-          Golang
-        </h1>
-        
-      </div>
     </div>
   </header>
 
 
+
     <main class="pb7" role="main">
       
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
-      <p>Below you will find pages that utilize the taxonomy term “Golang”</p>
-    </div>
-  </article>
-  <div class="mw8 center">    
-    <section class="flex-ns flex-wrap justify-around mt5">
-      
-        <div class="relative w-100  mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Training</span>
-    <h1 class="f3 near-black">
-      <a href="https://mateuszdyminski.com/training/golang/basic/" class="link black dim">
-        Go Training - basic
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Go training on basic level, no experience expected!
-    </div>
-  </div>
-</div>
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
 
-        </div>
+    <header class="mt4 w-100">
+      <p class="f6 b helvetica tracked">
+          
+        TRAININGS
+      </p>
+      <h1 class="f1 athelas mb1">Distributed Messaging with Apache Kafka</h1>
       
+      <time class="f6 mv4 dib tracked" datetime="2022-02-28T11:50:37&#43;01:00">February 28, 2022</time>
+      
+      
+    </header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="agenda">Agenda</h2>
+<ul>
+<li>Overview of Distributed Messaging Systems
+<ul>
+<li>What&rsquo;s Apache Kafka</li>
+<li>When it&rsquo;s worth to use Apache Kafka</li>
+<li>Use Cases</li>
+<li>Alternatives to Kafka</li>
+</ul>
+</li>
+<li>Kafka Design
+<ul>
+<li>Motivation</li>
+<li>Persistence</li>
+<li>Performance</li>
+<li>The Producer</li>
+<li>The Consumer</li>
+<li>Message Delivery Semantics</li>
+<li>Replication</li>
+<li>Log Compaction</li>
+</ul>
+</li>
+<li>Kafka API
+<ul>
+<li>Producer API</li>
+<li>Consumer API</li>
+<li>Kafka Streams</li>
+<li>Kafka Connect</li>
+</ul>
+</li>
+<li>Kafka Operations
+<ul>
+<li>Adding, Modifying and removing topics</li>
+<li>Checking consumer position</li>
+<li>Expanding your cluster</li>
+<li>Decommissioning brokers</li>
+<li>Geo Replication</li>
+<li>Broker configuration tuning</li>
+<li>Producer configuration tuning</li>
+<li>Consumer configuration tuning</li>
+<li>Java</li>
+<li>Hardware and OS</li>
+<li>Monitoring</li>
+</ul>
+</li>
+<li>Other
+<ul>
+<li>How many topics can I have</li>
+<li>How to choose number of partitions</li>
+</ul>
+</li>
+</ul>
+<h2 id="exercises">Exercises</h2>
+<p>List of exercises run during the workshop:</p>
+<ul>
+<li>Excercise 1 - Running cluster</li>
+<li>Excercise 2 - Check Kafka filesystem</li>
+<li>Excercise 3 - Write Simple Producer in Java</li>
+<li>Excercise 4 - Write Simple Consumer in Java</li>
+<li>Excercise 5 - Write Transaction Producer</li>
+<li>Excercise 6 - Write Consumer with different isolation level</li>
+<li>Excercise 7 - Replication</li>
+<li>Excercise 8 - Log compaction</li>
+<li>Excercise 9 - Streams API</li>
+<li>Excercise 10 - Connector API</li>
+<li>Excercise 11 - Create, Modify and Delete topic</li>
+<li>Excercise 12 - Managing Consumer Groups</li>
+<li>Excercise 13 - Expanding cluster</li>
+<li>Excercise 14 - Interacting with Zookeeper</li>
+</ul>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6">
+      
+      
+      </div>
     </section>
-  </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
